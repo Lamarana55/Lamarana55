@@ -45,12 +45,9 @@
 
 ## **📈 My github stats**
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarana55&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=Lamarana55&show_icons=true&theme=radical&count_private=true) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarana55&theme=radical&hide_langs_below=8&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Lamarana55&show_icons=true&theme=radical&count_private=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moudjames23&show_icons=true&locale=en&layout=compact" alt="moudjames23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moudjames23&show_icons=true&locale=en" alt="moudjames23" /></p>
 
 
 <p> <img style="align:center;" src="https://github-readme-streak-stats.herokuapp.com/?user=Lamarana55&" alt="lamarana55" /></p>
