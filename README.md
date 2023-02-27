@@ -1,6 +1,6 @@
 # Hey !
 ## **Welcome to my page!** 
-### I'm **Lamarana**, Software Engineer from **Conakry, Guinea**. I'm passionate about software development and I like to share my knowledge
+#### I'm **Lamarana**, Software Engineer from **Conakry, Guinea**. I'm passionate about software development and I like to share my knowledge
 
 <h3 align="left">Where to find me</h3>
 <p align="left">
@@ -17,6 +17,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40"/> </a>
@@ -47,4 +48,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarana55&theme=radical&hide_langs_below=8)
 ![](https://github-readme-stats.vercel.app/api?username=Lamarana55&show_icons=true&theme=radical&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lamarana55&" alt="lamarana55" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lamarana55&" alt="lamarana55" /></p>
