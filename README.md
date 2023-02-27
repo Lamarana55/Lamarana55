@@ -48,4 +48,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarana55&theme=radical&hide_langs_below=8)
 ![](https://github-readme-stats.vercel.app/api?username=Lamarana55&show_icons=true&theme=radical&count_private=true)
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lamarana55&" alt="lamarana55" /></p>
+<p> <img style="align:center;" src="https://github-readme-streak-stats.herokuapp.com/?user=Lamarana55&" alt="lamarana55" /></p>
